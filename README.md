@@ -2,7 +2,10 @@
 Project ini dibuat untuk Submission Kelas Belajar Fundamental Web Development
 
 ### Feature
-dapat mencari makanan khas berdasarkan negara
+Dapat mencari makanan khas berdasarkan negara
+
+### API
+API yang digunakan [<b>Free Meal API</b>](https://www.themealdb.com/api.php)
 
 ## Cara kerja Project
 1. Pastikan Node.js sudah terinstall
