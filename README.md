@@ -1,6 +1,9 @@
 # Kuliner-Dunia
 Project ini dibuat untuk Submission Kelas Belajar Fundamental Web Development
 
+### Feature
+dapat mencari makanan khas berdasarkan negara
+
 ## Cara kerja Project
 1. Pastikan Node.js sudah terinstall
 2. install package yang ada di package.json dengan
